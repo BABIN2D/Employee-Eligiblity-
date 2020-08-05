@@ -1,0 +1,2 @@
+# Employee-Eligiblity-
+# ask user to provide input for age gender and physical disability. # if anyone is above the age of 45 the work in urban areas, all female workers  # work in urban areas, any disabled person work in urban areas rest  # will work any location # ask for qualification, the following are the criteria and accordingly # the post offered to those criterias. # 12 pass = peon # graduate = clerk  # pg- in MSC = R&amp;D, M.COM = FINANCE, MCA = IT , MBA = Marketing / HR / FINANCE # There are only the above posts available
